@@ -1,1 +1,1 @@
-2	Simulation of PurePersuitProblem
+2	Simulation of Pure Pursuit Problem
